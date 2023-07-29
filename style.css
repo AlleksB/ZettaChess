@@ -1,0 +1,40 @@
+.my_shadow_1 {
+	text-shadow: 3px 3px 4px black;
+}
+
+.my_shadow_2 {
+	text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+.my_enlarge {
+	transition: transform .5s;
+}
+
+.my_enlarge:hover {
+	transform: scale(1.1);
+}
+
+.my_encolor {
+	transition: color .5s;
+}
+
+.my_encolor:hover {
+	color: #18bfef;
+}
+
+.my_shadow_3 {
+	text-shadow: 3px 3px 4px black;
+	box-shadow:  3px 3px 4px black;
+}
+
+.my_encolor_fast {
+	transition: color .25s;
+}
+
+.my_encolor_fast:hover {
+	color: #18bfef;
+}
+
+.my_italic {
+	font-style: italic;
+}
