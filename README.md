@@ -1,2 +1,2 @@
-This is my startup landing page, ZettaChess!
-Check it out here: 
+# This is my startup landing page, ZettaChess!
+Check it out here: https://alleksb.github.io/ZettaChess/
